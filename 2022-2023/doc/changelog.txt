@@ -1,1 +1,12 @@
+# Changelog
+All notable changes to this project will be documented in this file.
 
+## [1.0] 2022-11-17
+## Added
+
+	Method                Visibility                    Purpose
+	start                 public                        Serve per chiamare i metodi che utilizza il programma.
+	describeProgram       public                        Serve per dare una breve descrizione del programma.
+	displayOut            public                        Serve per visualizzare a schermo i dati presi in ingresso.
+	getInput              public                        Serve per prendere in ingresso i dati.
+	
