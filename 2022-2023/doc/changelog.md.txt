@@ -1,0 +1,12 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [1.0] 2022-12-27
+## Added
+
+	Method                Visibility                    Purpose
+	start                 public                        Serve per chiamare i metodi che utilizza il programma.
+	calcolaprezzo         public                        Serve per calcolare il prezzo del bagaglio
+	descriviattività      public                        Serve per descrivere l atività
+	prendiinput           public                        Serve per prendere in ingresso i dati.
+	visualizzarisultati   public                        Serve per restituire il prezzo
